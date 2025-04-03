@@ -1,0 +1,2 @@
+web: gunicorn leetcode_api:app
+streamlit: streamlit run streamlit_app.py 
